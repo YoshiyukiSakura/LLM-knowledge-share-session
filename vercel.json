@@ -1,5 +1,3 @@
 {
-  "buildCommand": "cd presentation && npm install && npm run build",
-  "outputDirectory": "presentation/dist",
   "framework": "vite"
 }
